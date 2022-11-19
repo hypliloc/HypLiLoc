@@ -2,7 +2,7 @@
 
 You can also view at https://github.com/hypliloc/HypLiLoc
 
-💥💥 We have refined the code structure, and this new version can run at **80FPS !** on NVIDIA 3090 GPU.
+💥💥 We have refined the code structure and storage devices. This new version can run at **80FPS !** on NVIDIA 3090 GPU.
 
 
 
